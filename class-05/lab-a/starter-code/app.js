@@ -15,6 +15,7 @@ function sum(a, b) { //eslint-disable-line
         'The sum of 4 and 7 is 11.'
     ]
     return returnArray;
+
 }
 
 // Here is the test for sum(); uncomment it to run it
